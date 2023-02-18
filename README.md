@@ -1,5 +1,5 @@
 Deployment Link: <br>
-<a href=""> Week 2 Contest </a>
+<a href="https://lizannajohn.github.io/f3-week2contest/"> Week 2 Contest </a>
 
 <h2> Project Overview </h2>
 Objective: <br>
